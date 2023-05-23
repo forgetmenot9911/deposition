@@ -1,0 +1,25 @@
+USAP-DC Dataset# 601257
+2020-04-20
+https://api.datacite.org/dois/10.15784/601257
+
+abstract:
+The dataset includes the particle size measurements of aerosol iron (Fe) through sampling of size-segregated aerosol particles made at Palmer Station, Antarctic Peninsula, which took place in the austral summer of 2016-2017. New results include particle-size distributions of total Fe, labile Fe, and fractional Fe solubility in aerosols from these samples.
+
+Instruments and devices:
+The sampler used for collecting size-segregated aerosol particles was a ten-stage Micro-Orifice Uniform Deposition Impactor™ (MOUDI, MSP Corporation, MN, USA) with 50% cutoff aerodynamic diameters of 0.056, 0.10, 0.18, 0.32, 0.56, 1.0, 1.8, 3.2, 5.6, 10, and 18 μm.  
+
+Acquisition procedures:
+Aerosol samples collected during this study were analyzed for the concentrations of total aerosol Fe plus additional trace elements by a sector field inductively coupled plasma-mass spectrometer (ICPMS; Thermo Fisher Element2, operated in medium resolution). The concentrations of labile Fe were obtained using UV/Visible spectroscopy with a TIDAS-1 spectrometer module with a 200 cm liquid waveguide capillary cell (World Precision Instruments Inc., FL, USA).
+
+Content and processing steps:
+See the excel data file.
+
+Fractional labile Fe(II) solubility was calculated as a percentage of total aerosol Fe, and Fractional total labile Fe solubility was calculated in the same way. Details were in Gao et al. (2019) (www.nature.com/articles/s41598-019-52468-z).
+
+Limitations and issues:
+NA
+
+Checkboxes:
+* All the data are referenced in time and space.
+* The data column, properties, and attributes listed/used in the data files are explained either in the description and/or the data files themselves.
+* Graphs and maps (if provided) have legends.
